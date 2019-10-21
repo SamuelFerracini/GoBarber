@@ -14,6 +14,8 @@ class Mail {
       secure,
       auth: auth.user ? auth : null,
     });
+
+    this.configureTemplates();
   }
 
   configureTemplates() {
@@ -28,7 +30,7 @@ class Mail {
           extname: '.hbs',
         }),
         viewPath,
-        extname: '.hbs',
+        extName: '.hbs',
       })
     );
   }
