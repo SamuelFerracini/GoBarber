@@ -1,4 +1,4 @@
 export default {
-  secret: process.env.APP_SECRET, // Hash unica para aplicação
+  secret: process.env.APP_SECRET,
   expiresIn: '7d',
 };
