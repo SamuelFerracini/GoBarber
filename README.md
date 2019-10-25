@@ -17,23 +17,17 @@
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/gobarber-api.svg">
-  <a href="https://github.com/lukemorales/gobarber-api/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/gobarber-api.svg">
+  <a href="https://github.com/SamuelFerracini/GoBarber/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/SamuelFerracini/GoBarber.svg">
   </a>
   
   <a href="https://github.com/lukemorales/gobarber-api/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/gobarber-api.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/SamuelFerracini/GoBarber.svg">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/gobarber-api.svg">   
 </p>
 
-<p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
-
-## :rocket: Technologies
+## :rocket: Backend
 
 This project is being developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp), I have already done
 the backend using the main following technologies:
