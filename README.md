@@ -32,7 +32,7 @@
 This project is being developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp), I have already done
 the backend using the main following technologies:
 
--  [Node.js][nodejs]
+-  Node.js
 -  [Express](https://expressjs.com/)
 -  [Sucrase](https://github.com/alangpierce/sucrase)
 -  [Docker](https://www.docker.com/docker-community)
