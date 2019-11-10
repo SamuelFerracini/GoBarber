@@ -9,3 +9,5 @@ yarn add babel-plugin-root-import -D
 yarn add eslint-import-resolver-babel-plugin-root-import -D
 yarn add @rocketseat/unform
  yarn add redux redux-saga reactotron-redux reactotron-redux-saga immer
+yarn add redux-persist
+yarn add react-toastify
