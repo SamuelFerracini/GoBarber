@@ -35,18 +35,18 @@ export const NotificationList = styled.div`
   background: rgba(0, 0, 0, 0.6);
   border-radius: 4px;
   padding: 15px 5px;
-  display: ${props => (props.visible ? 'block' : 'none')}
+  display: ${({ visible }) => (visible ? 'block' : 'none')};
 
   &::before {
     content: '';
     position: absolute;
-    left: calc(50% - 20px);
-    top: -20px;
+    right: 110px;
+    top: -18px;
     width: 0;
     height: 0;
-    border-left: 20px solid transparent;
-    border-right: 20px solid transparent;
-    border-bottom: 20px solid transparent rgba(0, 0, 0, 0.6);
+    border-left: 18px solid transparent;
+    border-right: 18px solid transparent;
+    border-bottom: 18px solid rgba(0, 0, 0, 0.6);
   }
 `;
 
