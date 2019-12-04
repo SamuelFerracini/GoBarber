@@ -56,7 +56,7 @@ export const Container = styled.div`
       margin-bottom: 10px;
     }
 
-    button {
+    > button {
       margin: 5px 0 0;
       height: 44px;
       background: #3b9eff;
